@@ -3,8 +3,8 @@
     {
       "name": "h1",
       "setup": "",
-      "run": "cat",
-      "input": "index.html",
+      "run": "cat index.html",
+      "input": "",
       "output": "<h1>Hello world</h1>",
       "comparison": "included",
       "timeout": 10,
