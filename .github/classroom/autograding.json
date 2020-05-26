@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "h1",
+      "setup": "",
+      "run": "cat",
+      "input": "index.html",
+      "output": "<h1>Hello world</h1>",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
